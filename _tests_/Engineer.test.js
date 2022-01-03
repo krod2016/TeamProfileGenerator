@@ -1,6 +1,6 @@
 const Engineer = require('./Engineer');
 
-//create Engineer card
+//create Engineer card (name, intern id, email, office number)
 test ('Engineer info', () => {
   const Engineer = new Engineer ('John', 002, 'jn2012@aol.com', 2);
   expect(engineer.name).toEqual(expect.any(String));
@@ -32,13 +32,13 @@ test('engineer role', () => {
   expect(engineer.getRole()).toEqual("Engineer");
 }); 
 
-// gets github from getGithub()
+// getGithub coding here
 test('gets github', () => {
     const engineer = new Engineer ('John', 002, 'jn2012@aol.com', 2);
     expect(engineer.getGithub()).toEqual(expect.stringContaining(engineer.github.toString()));
 });
 
-// gets role from getRole() 
+// getRole coding here
 test('gets role of employee', () => {
     const engineer = new Engineer ('John', 002, 'jn2012@aol.com', 2);
     expect(engineer.getRole()).toEqual("Engineer");
