@@ -1,20 +1,25 @@
-AS A manager
-I WANT to generate a webpage that displays my team's basic info SO THAT I have quick access to their emails and GitHub profiles
+# TeamProfileGenerator 
 
-GIVEN a command-line application that accepts user input
+# Description
+This team profile generator allows managers to input their employees information, and have the information dynamically shown on an HTML page
 
-WHEN I am prompted for my team members and their information THEN an HTML file is generated that displays a nicely formatted team roster based on user input
+![TeamProfileGenerator - Homepage]()
 
-WHEN I click on an email address in the HTML THEN my default email program opens and populates the TO field of the email with the address
+# Technologies Used
+* CSS
+* HTML
+* Javascript
+* Node.js
 
-WHEN I click on the GitHub username THEN that GitHub profile opens in a new tab
+# Installation
+To begin the coding, I downloaded node, and inquirer.
+Afer coding was completed, I typed "index.js" to make sure the code was working properly.
 
-WHEN I start the application THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number
+# Process
+First, I made tests for the manager, employee, engineer, and intern to see if my coding was successful.
+After testing, I made pages for each person to conduct the proper coding, so it could be dynamically shown on the page.
+Once all the pages were made, I made an html outline so the JavaScript coding could be dynamically shown.
+Then, I added CSS to the website to for finishing touches.
 
-WHEN I enter the team manager’s name, employee ID, email address, and office number THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team
-
-WHEN I select the engineer option THEN I am prompted to enter the engineer’s name, ID, email, and GitHub username, and I am taken back to the menu
-
-WHEN I select the intern option THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
-
-WHEN I decide to finish building my team THEN I exit the application, and the HTML is generated 
+# Credits
+Made with love by Katrina Rodriguez
