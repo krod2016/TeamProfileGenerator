@@ -80,7 +80,7 @@ generateHTML = (data) => {
           pageArray.push(engineerCard);
       }
 
-      //intern cards
+      //intern info
       if (role === 'Intern') {
           const internCard = generateIntern(employee);
 

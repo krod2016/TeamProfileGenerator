@@ -34,7 +34,7 @@ test('engineer role', () => {
 
 // getGithub coding here
 test('gets github', () => {
-    const engineer = new Engineer ('John', 002, 'jn2012@aol.com', 2);
+    const engineer = new Engineer ('John', 002, 'github.com/jnr1234', 2);
     expect(engineer.getGithub()).toEqual(expect.stringContaining(engineer.github.toString()));
 });
 
