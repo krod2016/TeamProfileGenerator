@@ -1,9 +1,15 @@
 # TeamProfileGenerator 
 
+# Links
+* GitHub:
+* HTML file generated: 
+
 # Description
 This team profile generator allows managers to input their employees information, and have the information dynamically shown on an HTML page
 
 ![TeamProfileGenerator - Homepage]()
+
+Picture of dynamically made HTML page
 
 # Technologies Used
 * CSS
@@ -13,7 +19,7 @@ This team profile generator allows managers to input their employees information
 
 # Installation
 * To begin the coding, I downloaded node, and inquirer.
-* Afer coding was completed, I typed "index.js" to make sure the code was working properly.
+* Afer coding was completed, I typed 'node index.js' in to the terminal to make sure the code was working properly.
 
 # Process
 * First, I made tests for the manager, employee, engineer, and intern to see if my coding was successful.
