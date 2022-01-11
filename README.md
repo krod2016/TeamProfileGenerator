@@ -11,6 +11,7 @@ This team profile generator allows managers to input their employees information
 Picture of dynamically made HTML page
 
 * Video walkthrough of page
+https://watch.screencastify.com/v/UL7hLqNFJyRraW2LfLnt
 
 # Technologies Used
 * CSS
