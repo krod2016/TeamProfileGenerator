@@ -6,7 +6,7 @@
 # Description
 This team profile generator allows managers to input their employees information, and have the information dynamically shown on an HTML page
 
-![TeamProfileGenerator - Homepage](.assets/images/TPG-homepage.png)
+![TPG-homepage](https://user-images.githubusercontent.com/88009884/148874592-8c62faa1-dd37-4898-af58-7216efaa16cc.png)
 
 Picture of dynamically made HTML page
 
