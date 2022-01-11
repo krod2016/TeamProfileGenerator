@@ -2,14 +2,15 @@
 
 # Links
 * GitHub: https://github.com/krod2016/TeamProfileGenerator
-* HTML file generated: 
 
 # Description
 This team profile generator allows managers to input their employees information, and have the information dynamically shown on an HTML page
 
-![TeamProfileGenerator - Homepage](./images/TPG-homepage.png)
+![TeamProfileGenerator - Homepage](.assets/images/TPG-homepage.png)
 
 Picture of dynamically made HTML page
+
+* Video walkthrough of page
 
 # Technologies Used
 * CSS
